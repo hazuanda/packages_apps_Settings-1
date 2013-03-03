@@ -1474,9 +1474,9 @@
                 android:value="com.android.settings.aokpstats.AnonymousStats" />
         </activity>
 
-        <!-- ReVolt -->
+        <!-- HazuanDA -->
         <activity android:name=".rv.About" />
-        <activity android:name="Revolt" />
+        <activity android:name="HazuanDA" />
         <activity android:name=".rv.Shortcuts" />
         <activity android:name=".cyanogenmod.LockscreenButtons" />
 
