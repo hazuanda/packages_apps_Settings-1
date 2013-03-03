@@ -6,20 +6,20 @@
 
 	<PreferenceCategory
 		android:key="links"
-		android:title="@string/revolt">
+		android:title="@string/HazuanDA">
 
 		<Preference
-			android:key="revolt_website"
-			android:title="@string/revolt_website_title"
-			android:summary="@string/revolt_website_summary" />
+			android:key="HazuanDA_website"
+			android:title="@string/HazuanDA_website_title"
+			android:summary="@string/HazuanDA_website_summary" />
                 <Preference
-                        android:key="revolt_fb"
-                        android:title="@string/revolt_fb_title"
-                        android:summary="@string/revolt_fb_summary" />
+                        android:key="HazuanDA_fb"
+                        android:title="@string/HazuanDA_fb_title"
+                        android:summary="@string/HazuanDA_fb_summary" />
                 <Preference
-                        android:key="revolt_source"
-                        android:title="@string/revolt_source_title"
-                        android:summary="@string/revolt_source_summary" />
+                        android:key="HazuanDA_source"
+                        android:title="@string/HazuanDA_source_title"
+                        android:summary="@string/HazuanDA_source_summary" />
 
 	</PreferenceCategory>
 
@@ -28,10 +28,10 @@
 		android:title="@string/devs">
 
 		<com.android.settings.widgets.DeveloperPreference
-            android:title="Johnhany97"
-            rv:nameDev="Johnhany97"
-            rv:twitterHandle="jhany97"
-            rv:donateLink="@string/donate_johnhany97" />
+            android:title="Warn"
+            rv:nameDev="Warn"
+            rv:twitterHandle="Warn"
+            rv:donateLink="@string/donate_Warn" />
 
         </PreferenceCategory>
 
