@@ -93,15 +93,15 @@
     </header>
 
 
-    <!-- REVOLT CENTER -->
-    <header android:title="@string/header_category_revolt" />
+    <!-- HAZUANDA CENTER -->
+    <header android:title="@string/header_category_hazuanda" />
 
-    <!-- ReVolt Control -->
+    <!-- HazuanDA Control -->
     <header
         android:id="@+id/rv_settings"
-        android:fragment="com.android.settings.Revolt"
-        android:icon="@drawable/ic_settings_revolt"
-        android:title="@string/revolt_settings_title" />
+        android:fragment="com.android.settings.Hazuanda"
+        android:icon="@drawable/ic_settings_hazuanda"
+        android:title="@string/hazuanda_settings_title" />
 
     <!-- Update Me -->
     <header 
@@ -141,14 +141,14 @@
                 android:targetClass="com.brewcrewfoo.performance.activities.MainActivity" />
     </header>
 
-    <!-- About ReVolt ROM Center -->
+    <!-- About HazuanDA ROM Center -->
     <header
         android:id="@+id/about_rom"
         android:fragment="com.android.settings.rv.About"
         android:icon="@drawable/ic_settings_about_rv"
         android:title="@string/about_rv_settings_title" />
 
-    <!-- ReVolt DPI Controlling System -->
+    <!-- HazuanDA DPI Controlling System -->
     <header android:title="@string/dpi_settings" />
 
     <header
